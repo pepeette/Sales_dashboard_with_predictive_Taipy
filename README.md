@@ -11,4 +11,4 @@ AGENDA : </br>
 1/ creation of a dashboard page </br>
 2/ manipulation of sales data </br>
 3/ adding prediction model </br>
-4/ hosted by taipy as well </br>
+4/ hosted by taipy.cloud for deployment and use </br>
