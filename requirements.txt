@@ -1,0 +1,6 @@
+taipy
+taipy
+scikit-learn
+scikeras
+tensorflow==2.15.0
+keras-models
